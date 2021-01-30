@@ -1,7 +1,5 @@
 # Compton-Rates-for-Polarized-SuperKEKB-Facility
-The Anticipated Compton Rates for the Polarized SuperKEKB Facility
-
-We reproduce the data found in the EIC report. 
+The Anticipated Compton Rates for the Polarized SuperKEKB Facility. 
 
 ## Incomplete functions
 
